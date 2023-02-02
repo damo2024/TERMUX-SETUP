@@ -21,7 +21,7 @@ ____Welcome____
  pip install mechanize
  cd $HOME 
  rm -rf SET-UP 
- git clone https://github.com/ANONYMOUS U7P4L/SET-UP
+ git clone https://github.com/ANONYMOUS-U7P4L/SET-UP
 ```
 #### RUN SCRIPT
 ```python
