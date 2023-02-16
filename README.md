@@ -24,7 +24,7 @@ pip install futures
 pip install mechanize
 cd $HOME 
 rm -rf SET-UP
-git clone --depth=1 https://github.com/U7P4L-IN/
+git clone --depth=1 https://github.com/U7P4L-IN/SET-UP.git
 
 cd SET-UP
 
