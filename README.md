@@ -34,7 +34,7 @@ python SET-ALL.py
 ```
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/Screenshot_2023-02-16-14-11-42-138_com.termux.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/IMG_20230303_185825.jpg">
 
 #### Tools Languages :
 
