@@ -21,15 +21,11 @@ U7P4L IN
   
 #### INSTALL TOOL ON TERMUX
 ```python
-pkg update
-pkg upgrade
-pkg install python
+apt update && apt upgrade -y
+
 pkg install git
-pip install requests
-pip install bs4
-pip install futures
-pip install mechanize
-cd $HOME 
+
+pkg install python
 rm -rf SET-UP
 git clone --depth=1 https://github.com/U7P4L-IN/SET-UP.git
 
