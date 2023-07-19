@@ -1,13 +1,4 @@
-![](https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Python.gif)
-
-
-
-
-<p align="center">
-
-🌺Welcome🌺
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/TARMUX_BESIC_SETUP.png">
 
 AUTHOR:
 <p align="center">
@@ -33,6 +24,9 @@ cd SET-UP
 
 python SET-ALL.py
 ```
+
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/carbon%20(2).png">
+
 #### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/Screenshot_2023-07-13-14-49-47-552_com.termux.jpg">
