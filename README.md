@@ -29,7 +29,7 @@ python SET-ALL.py
 
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/Screenshot_2023-07-13-14-49-47-552_com.termux.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/Screenshot_2023-07-26-10-38-40-784_com.termux-01.jpeg">
 
 #### Tools Languages :
 
