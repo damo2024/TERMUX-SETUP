@@ -1,12 +1,8 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/TARMUX_BESIC_SETUP.png">
 
-AUTHOR:
 <p align="center">
-U7P4L IN
 
-</br>
-<p align="center">
-      ⚡Tarmux full set up Tools⚡
+🔰Tarmux Setup Is The Tool Of Tarmux Terminal, With Which You Can Setup All The Basic Package Modules Of Your Tarmux In One Command.🔰
 
 </p>
   
