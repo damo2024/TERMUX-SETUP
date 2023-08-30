@@ -25,7 +25,7 @@ python SET-ALL.py
 
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/Screenshot_2023-07-26-10-38-40-784_com.termux-01.jpeg">
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/IMG_20230830_173542_740.jpg">
 
 #### Tools Languages :
 
