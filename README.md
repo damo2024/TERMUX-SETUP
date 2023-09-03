@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/TARMUX_BESIC_SETUP.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/github-header-image%20(2).png">
 
 <p align="center">
 
