@@ -6,6 +6,12 @@
 
 </p>
 
+<p align="center">
+    <img alt="Version" src="https://img.shields.io/badge/Version-ALPHA-blue?style=for-the-badge&color=blue">
+    <img alt="Stars" src="https://img.shields.io/github/stars/U7P4L-IN/SET-UP?style=for-the-badge&color=magenta">
+    <img alt="Forks" src="https://img.shields.io/github/forks/U7P4L-IN/SET-UP?color=cyan&style=for-the-badge&color=red">
+    <img alt="License" src="https://img.shields.io/github/license/U7P4L-IN/SET-UP?style=for-the-badge&color=green">
+</p>
 ## Why This Tool Only? ::
 
 1. **Install Basic Termux Powerfull Tool:** the tool helps you install some basic termux tools which should be installed in termux like Kali Linux have.Which may help you in your tasks and hacking journey on your advance.
@@ -51,6 +57,8 @@ python SET-ALL.py
 #### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/IMG_20230830_173542_740.jpg">
+
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 #### Tools Languages :
 
