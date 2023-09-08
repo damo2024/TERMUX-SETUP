@@ -5,7 +5,20 @@
 🔰Tarmux Setup Is The Tool Of Tarmux Terminal, With Which You Can Setup All The Basic Package Modules Of Your Tarmux In One Command.🔰
 
 </p>
-  
+
+### 🔺Features And Benefits 🔻 
+◽️Troubleshoot Termux Errors ◾️Automatically.
+◽️Install Basic Termux Powerful Tool.
+◾️Install Missing Python Modules.
+◽️Always Maintained and have Updates.
+
+### 📜Requirements :- 
+🌀Stable Internet Connection
+🌀100+ MB Storage
+🌀Termux Version Upto Date
+🌀Android 7 or higher
+🌀No Termux Knowlegde
+
 #### INSTALL TOOL ON TERMUX
 ```python
 apt update && apt upgrade -y
