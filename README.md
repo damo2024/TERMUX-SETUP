@@ -12,6 +12,7 @@
     <img alt="Forks" src="https://img.shields.io/github/forks/U7P4L-IN/SET-UP?color=cyan&style=for-the-badge&color=red">
     <img alt="License" src="https://img.shields.io/github/license/U7P4L-IN/SET-UP?style=for-the-badge&color=green">
 </p>
+
 ## Why This Tool Only? ::
 
 1. **Install Basic Termux Powerfull Tool:** the tool helps you install some basic termux tools which should be installed in termux like Kali Linux have.Which may help you in your tasks and hacking journey on your advance.
