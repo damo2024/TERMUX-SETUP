@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/github-header-image%20(2).png">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BESIC%20MODULES%20or%20SETUP%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62)
 
 <p align="left">
 
