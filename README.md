@@ -41,15 +41,11 @@
 #### INSTALL TOOL ON TERMUX
 ```python
 apt update && apt upgrade -y
-
 pkg install git
-
 pkg install python
 rm -rf SET-UP
 git clone --depth=1 https://github.com/U7P4L-IN/SET-UP.git
-
 cd SET-UP
-
 python SET-ALL.py
 ```
 
@@ -57,7 +53,7 @@ python SET-ALL.py
 
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/GridArt_20230930_131651556.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/GridArt_20231016_172848351.jpg">
 
 <p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
