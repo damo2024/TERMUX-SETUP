@@ -28,6 +28,7 @@
 - Package Installer.
 - Python Modules Installer
 - Setup Basic Termux Tools
+- Add Your Name in Termux Terminal
 
 ## Requirements - 
 - Stable Internet Connection
