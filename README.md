@@ -8,9 +8,9 @@
 
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/Version-ALPHA-blue?style=for-the-badge&color=blue">
-    <img alt="Stars" src="https://img.shields.io/github/stars/U7P4L-IN/SET-UP?style=for-the-badge&color=magenta">
-    <img alt="Forks" src="https://img.shields.io/github/forks/U7P4L-IN/SET-UP?color=cyan&style=for-the-badge&color=red">
-    <img alt="License" src="https://img.shields.io/github/license/U7P4L-IN/SET-UP?style=for-the-badge&color=green">
+    <img alt="Stars" src="https://img.shields.io/github/stars/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&color=magenta">
+    <img alt="Forks" src="https://img.shields.io/github/forks/U7P4L-IN/TERMUX-SETUP?color=cyan&style=for-the-badge&color=red">
+    <img alt="License" src="https://img.shields.io/github/license/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&color=green">
 </p>
 
 ## Why This Tool Only? ::
@@ -47,9 +47,9 @@ apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
-git clone --depth=1 https://github.com/U7P4L-IN/SET-UP.git
-cd SET-UP
-python SET-ALL.py
+git clone --depth=1 https://github.com/U7P4L-IN/TERMUX-SETUP.git
+cd TERMUX-SETUP
+python3 SET.py
 ```
 
 <p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/carbon%20(2).png">
@@ -62,7 +62,7 @@ python SET-ALL.py
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=SET-UP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
