@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BESIC%20MODULES%20or%20SETUP%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BESIC%20MODULES%20or%20SETUP%20TOOLS%20BY%20U7P4L&descAlignY=51&descAlign=62" width="100%"/>
+</p>
+
 
 <p align="left">
 
@@ -39,7 +41,7 @@
 - No Root
 - No Termux Knowlegde
 
-<p align="center"><img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif">
+<p align="center"><img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif"></p>
 
 #### INSTALL TOOL ON TERMUX
 ```python
@@ -52,17 +54,16 @@ cd TERMUX-SETUP
 python3 SET.py
 ```
 
-<p align="center"><img src="https://github.com/U7P4L-IN/SET-UP/blob/main/image/carbon%20(2).png">
-
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/TERMUX-SETUP/blob/main/image/GridArt_20240114_201109900.jpg">
+<p align="center"><img src="./image/demo1.jpg">
 
 <p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</p>
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
