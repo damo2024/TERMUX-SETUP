@@ -48,26 +48,51 @@
 apt update && apt upgrade -y
 pkg install git
 pkg install python
-pip install requests
 git clone --depth=1 https://github.com/U7P4L-IN/TERMUX-SETUP.git
 cd TERMUX-SETUP
 python3 SET.py
 ```
+<p align="center"><img src="/image/carbon.png">
 
-#### Screenshots:
+</br><h2 align="left"><b>SCREENSHORTS : </b></h2>
 
-<p align="center"><img src="./image/demo1.jpg">
+<p align="center"><img src="/image/demo1.jpg">
+<p align="center"><img src="./image/demo2.jpg">
+
+<p align="center"><img src="./image/demo3.png">
 
 <p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
-#### Tools Languages :
+### Languages :
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
 </p>
 
+
+<h2 align="center">LICENSE</h2>
+
+TERMUX-SETUP is released under the MIT license, which grants the following permissions:
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+For more convoluted language, see the [LICENSE](/LICENSE).
+</br>
+
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+
+</br>
+
+# Report bugs
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
+
+
+
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
-> [!NOTE]  
+* NOTE :  
 > All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
 
 # Give A Star ⭐
