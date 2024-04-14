@@ -62,8 +62,6 @@ python3 SET.py
 
 <p align="center"><img src="./image/demo3.png">
 
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-
 ### Languages :
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
@@ -81,9 +79,7 @@ TERMUX-SETUP is released under the MIT license, which grants the following permi
 
 For more convoluted language, see the [LICENSE](/LICENSE).
 </br>
-
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 </br>
 
 # Report bugs
