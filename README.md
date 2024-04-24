@@ -1,10 +1,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BESIC%20MODULES%20or%20SETUP%20TOOLS%20BY%20U7P4L&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
-
 <p align="left">
 
-🔰Tarmux Setup Is The Tool Of Tarmux Terminal, With Which You Can Setup All The Basic Package Modules Of Your Tarmux In One Command.🔰
+>Tarmux Setup Is The Tool Of Tarmux Terminal, With Which You Can Setup All The Basic Package Modules Of Your Tarmux In One Command.
 
 </p>
 
@@ -59,8 +58,11 @@ python3 SET.py
 
 <p align="center"><img src="/image/demo1.jpg">
 <p align="center"><img src="./image/demo2.jpg">
-
 <p align="center"><img src="./image/demo3.png">
+
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="200" height="80" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+
+</br>
 
 ### Languages :
 
@@ -68,9 +70,15 @@ python3 SET.py
 </p>
 
 
+# Report bugs
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
+
+### Contributing
+Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
+
 <h2 align="center">LICENSE</h2>
 
-TERMUX-SETUP is released under the MIT license, which grants the following permissions:
+**TERMUX-SETUP** Tools is released under the MIT license, which grants the following permissions:
 - Commercial use
 - Modification
 - Distribution
@@ -79,19 +87,11 @@ TERMUX-SETUP is released under the MIT license, which grants the following permi
 
 For more convoluted language, see the [LICENSE](/LICENSE).
 </br>
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-</br>
-
-# Report bugs
-If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
-
-
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
-* NOTE :  
-> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
-
+* ©️ Copyright Message
+>> Copyright © [2023-27] [U7P4L-IN]
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 # Give A Star ⭐
-
 > You can also give this repository a star to show more people and they can use this repository.
